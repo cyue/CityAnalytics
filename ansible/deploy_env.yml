@@ -1,0 +1,9 @@
+- name: deploy environment on remote server
+  hosts: cloud_asg
+  sudo: yes
+
+  roles:
+    - couchdb
+    - pkg_installation
+
+

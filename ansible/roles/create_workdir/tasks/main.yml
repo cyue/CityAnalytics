@@ -1,0 +1,3 @@
+  - name: Create main working directory
+    file: path={{REMOTE_MAIN}} state=directory
+

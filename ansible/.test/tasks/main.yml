@@ -1,0 +1,5 @@
+# ./ansible-nginx/deploy.yml
+    - name: create
+      unarchive: src={{LOCAL_MAIN}}/t.zip dest={{REMOTE_MAIN}}
+    - name: create
+      command: sh t.sh chdir={{REMOTE_MAIN}}/t

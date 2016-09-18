@@ -1,0 +1,34 @@
+  - name: Update the cache
+    apt: update_cache=yes
+  - name: Install apache2
+    apt: pkg=apache2 state=latest
+  - name: Install curl
+    apt: pkg=curl state=latest
+  - name: Install pip
+    easy_install: name=pip 
+  - name: Install couchDB
+    apt: pkg=couchdb state=latest
+  - name: Install python-couchDB
+    apt: pkg=python-couchdb state=latest
+  - name: Install unzip
+    apt: pkg=unzip state=latest
+  - name: Install tweepy
+    pip: name=tweepy state=latest
+  - name: Install nltk
+    pip: name=nltk state=latest
+  - name: Install textblob
+    pip: name=textblob state=latest
+  - name: Install googlemaps
+    pip: name=googlemaps state=latest 
+  - name: Install genderizer
+    pip: name=genderizer state=latest 
+  - name: Install pymongo
+    pip: name=pymongo state=latest 
+  - name: Install naiveBayesClassifier
+    pip: name=naiveBayesClassifier state=latest 
+  - name: Install python-memcached
+    pip: name=python-memcached state=latest
+  - name: Install python webserver bottle
+    pip: name=bottle state=latest
+
+

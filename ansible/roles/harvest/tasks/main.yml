@@ -1,0 +1,8 @@
+# deploy harvest script
+  - name: unzip tweet harvest script that coordinate with the default couchdb
+    unarchive: src={{LOCAL_MAIN}}/harvest.zip dest={{REMOTE_MAIN}}/
+
+# start harvest
+  - name: start harvest tweet in to default couchdb
+    command: sh start.sh chdir={{REMOTE_MAIN}}/harvest
+

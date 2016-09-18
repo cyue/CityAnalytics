@@ -1,0 +1,291 @@
+ feature_name,
+Richmond,1373
+Kew,1314
+Brighton,1275
+Camberwell,1145
+Hawthorn,1065
+Glen Iris,1037
+Canterbury,979
+Port Melbourne,976
+Albert Park,950
+Malvern East,932
+Point Cook,916
+Toorak,912
+Aberfeldie,896
+Glen Iris East,890
+Caulfield North,882
+St Kilda,879
+Balwyn North,856
+Windsor,835
+Northcote,803
+Eltham,795
+South Yarra East,729
+Elwood,727
+McKinnon,716
+Black Rock,715
+Hawthorn East,713
+Hampton,704
+Brighton East,695
+Balwyn,688
+Bentleigh East,678
+Williamstown,669
+Doncaster East,667
+Templestowe,666
+Caulfield South,656
+Brunswick,651
+Wheelers Hill,631
+Beaumaris,614
+South Melbourne,606
+Park Orchards,605
+Fitzroy North,572
+Newport,572
+Glen Waverley East,571
+Southbank,558
+Mount Eliza,547
+Wantirna South,529
+Moonee Ponds,528
+Blackburn,525
+Berwick North,510
+South Morang,493
+North Melbourne,492
+Ascot Vale,489
+St Kilda East,488
+Warranwood,487
+Yarraville,477
+Armadale,476
+Coburg,474
+Parkdale,471
+Mount Waverley South,466
+Mont Albert,457
+Mount Waverley North,451
+Wonga Park,449
+Kensington,448
+Greensborough,447
+Yarra North,444
+Ivanhoe,437
+Doncaster,432
+Keilor East,431
+Carnegie,430
+Preston,430
+Eaglemont,427
+Elsternwick,426
+Box Hill North,416
+Taylors Lakes,416
+Chadstone,410
+Glen Waverley West,410
+Melbourne,405
+Fitzroy,405
+Yallambie,404
+Princes Hill,399
+Thornbury,382
+Pascoe Vale,378
+Briar Hill,369
+Narre Warren South,368
+Vermont South,361
+Caroline Springs,361
+Rosanna,357
+Huntingdale,357
+Ferntree Gully,353
+Frankston South,353
+Templestowe Lower,352
+Box Hill,352
+Diamond Creek,352
+Berwick South,351
+Highett (East),347
+Croydon,345
+Langwarrin,343
+Endeavour Hills,342
+Rowville Central,336
+Wantirna,333
+Mickleham,332
+Glen Huntly,325
+Strathmore,323
+Mooroolbark,323
+Ringwood East,322
+Sunbury South,321
+Mulgrave,321
+Ashburton,320
+Yarrambat,319
+Brunswick West,318
+South Yarra West,318
+Bulla,312
+East Melbourne,307
+Mitcham,306
+Fairfield,298
+Mentone,296
+Maribyrnong,289
+Docklands,286
+Brunswick East,285
+Cockatoo,285
+Kew East,283
+Cheltenham - Highett (West),281
+Mill Park North,280
+Werribee - North,277
+Carlton,275
+North Warrandyte,274
+Mount Martha,273
+Tarneit,271
+Bulleen,269
+Hoppers Crossing - North,264
+Murrumbeena,261
+Kingsville,261
+Mornington,260
+Rowville - South,257
+Aspendale,254
+Coldstream,254
+Epping,250
+Gisborne,250
+Ringwood North,250
+Westmeadows,248
+The Basin,239
+Blackburn South,237
+Hadfield,235
+Abbotsford,233
+Altona,232
+Flemington,231
+Patterson Lakes,231
+Derrimut,231
+Vermont,230
+Sunbury,228
+Lysterfield,227
+Ringwood,225
+Waterways,224
+Olinda,223
+Collingwood,222
+Keysborough,221
+Somerville,221
+Hillside,220
+Narre Warren North,217
+Dingley Village,216
+Burwood,215
+Taylors Hill,215
+Bacchus Marsh,214
+Kingsbury,213
+Keilor,213
+Narre Warren,210
+Reservoir - West,209
+Pascoe Vale South,208
+Hoppers Crossing - South,205
+Reservoir - East,192
+Burwood East,191
+Scoresby,191
+Nunawading,190
+Keilor Downs,184
+Altona Meadows,184
+Sandhurst,181
+Dandenong North,177
+Selby,176
+Heatherton,175
+Footscray,173
+Officer,169
+Somers,169
+Parkville,168
+Hughesdale,166
+Bonbeach,163
+Forest Hill,162
+Rowville - North,160
+Chirnside Park,158
+Wallan,156
+Oakleigh South,155
+Watsonia,154
+Tecoma,154
+Clayton,154
+Tottenham,154
+Mill Park - South,152
+Pakenham - South,151
+Lyndhurst,150
+Werribee - South,150
+Essendon West,149
+Bundoora - East,148
+Braybrook,148
+Noble Park,146
+Frankston,142
+St Andrews,133
+Yarra Glen,132
+Sydenham,130
+Altona North,130
+Melton,129
+Melton South,127
+Cairnlea,126
+Bayswater North,125
+Truganina,125
+Melton West,124
+Romsey,123
+Somerton,123
+Point Nepean,121
+Seaford,120
+Flinders,119
+Heidelberg West,116
+Mount Evelyn,115
+Dandenong,113
+Sunshine West,112
+Wyndham Vale,112
+Lynbrook,111
+Lalor,110
+Montrose,110
+Cranbourne,110
+Seville,106
+Springvale,106
+Bundoora - North,105
+Bayswater,103
+Cranbourne South,103
+Carrum Downs,103
+Yarra Valley,102
+Clayton South,101
+Thomastown,98
+Garfield,96
+Airport West,95
+Whittlesea,92
+Kilsyth,91
+Cranbourne North,89
+McCrae,89
+Tooradin,86
+Sunshine,86
+Hallam,84
+St Albans - North,81
+Macedon,79
+Pakenham - North,78
+Springvale South,78
+Dromana,78
+Coburg North,76
+Sunshine North,75
+Hurstbridge,74
+Riddells Creek,71
+Frankston North,69
+Kings Park,67
+Bundoora - West,66
+Fawkner,66
+St Albans - South,61
+Silvan,60
+Seabrook,58
+Meadow Heights,54
+Tullamarine,54
+Cranbourne East,52
+Koo Wee Rup,50
+Delahey,49
+Laverton,49
+Noble Park North,47
+Chelsea Heights,44
+Coolaroo,44
+Cranbourne West,37
+Albion,37
+Kinglake,31
+Doveton,24
+Broadmeadows,22
+Mount Cottrell,17
+Flemington Racecourse,0
+West Melbourne,0
+Port Melbourne Industrial,0
+Braeside,0
+Moorabbin Airport,0
+Essendon Airport,0
+Melbourne Airport,0
+Rowville,416
+Highett,628
+Hoppers Crossing,469
+Reservoir,401
+Mill Park,432
+Pakenham,229
+Bundoora,319
+St Albans,142
+Werribee,427

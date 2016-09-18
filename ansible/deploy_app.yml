@@ -1,0 +1,11 @@
+- name: deploy whole application
+  hosts: app
+  sudo: yes
+
+  roles:
+    - create_workdir
+    - harvest
+    - scenario
+    - webserver
+
+

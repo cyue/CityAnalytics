@@ -1,0 +1,8 @@
+# deploy webserver
+  - name: unzip webserver script to main working directory
+    unarchive: src={{LOCAL_MAIN}}/html.zip dest={{REMOTE_MAIN}}
+
+# start webserver
+  - name: start webserver on localhost:80
+    command: sh start.sh chdir={{REMOTE_MAIN}}/html 
+

@@ -1,0 +1,8 @@
+# deploy analytic script
+  - name: unzip analytic script to main working directory
+    unarchive: src={{LOCAL_MAIN}}/scenario.zip dest={{REMOTE_MAIN}}/
+
+# execute analytic script
+  - name: Run analytic script that coordinate with default couchdb
+    command: sh run_all.sh chdir={{REMOTE_MAIN}}/scenario
+    
